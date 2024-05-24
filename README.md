@@ -4,11 +4,11 @@ Hi 👋 My name is Andres Marte
 Web Developer and Ex-Architectural Designer
 -------------------------------------------
 
-I've been learning how to become a full-stack developer after switching my career path from Architecture. I have my B-Tech Degree in Architecture and have a UX/UI Design Certificate. My Focus now is to create designs and problem solve through coding. I also am a freelance portrait, urban, weddings, and overall lifestyle photographer.
+I've been learning how to become a full-stack developer after switching my career path from Architecture. I am back in school now to have my degree in Software Development, I currently also have my B-Tech Degree in Architecture and, have a UX/UI Design Certificate. My Focus now is to create designs and problem-solve through coding. I am also a freelance portrait, urban, weddings, and lifestyle photographer.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [mAndres1994@gmail.com](mailto:mAndres1994@gmail.com)
-*   🧠  I'm learning Html, CSS, Javascript, ReactJS, Vue.
+*   🧠  I'm learning HTML, CSS, Javascript, ReactJS, Vue.
 *   🤝  I'm open to collaborating on Anything to help me further my skills in full-stack development.
 
 
@@ -36,8 +36,8 @@ Skills<p align="left">
                   
                 <p align="left">
                           
-                      <a href="https://www.github.com/visualize" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                      <a href="https://www.github.com/visuxlize" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.instagram.com/vsxep_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                      <a href="http://www.instagram.com/visuxlize_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.linkedin.com/in/andres-marte-95438217b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
