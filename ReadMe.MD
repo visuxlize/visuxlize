@@ -8,7 +8,7 @@ I've been learning how to become a full-stack developer after switching my caree
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [mAndres1994@gmail.com](mailto:mAndres1994@gmail.com)
-*   🧠  I'm learning HTML, CSS, Javascript, ReactJS, Vue.
+*   🧠  I'm learning at DeVry University to be a Software Developer.
 *   🤝  I'm open to collaborating on Anything to help me further my skills in full-stack development.
 
 
