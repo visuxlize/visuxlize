@@ -312,16 +312,6 @@ graph LR
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/visuxlize/visuxlize/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ### 🎓 Education & Certifications
 
 ```
