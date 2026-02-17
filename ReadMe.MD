@@ -34,6 +34,8 @@
 
 ---
 
+<img align="right" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif"/>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 ```javascript
@@ -149,10 +151,6 @@ const andres = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visuxlize&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=visuxlize&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" alt="Activity Graph"/>
 </div>
 
@@ -185,30 +183,6 @@ Matches users with mental health professionals based on their current emotional 
 </td>
 <td width="50%" valign="top">
 
-#### 🎨 [Ostome App](https://github.com/visuxlize/ostome-app)
-
-**Colorful mood tracking for children**
-
-An intuitive application designed for children to track feelings, symptoms, and appointments, making doctor visits more productive.
-
-**Tech Stack:**
-- JavaScript
-- Child-friendly UI/UX
-- Data visualization
-
-**Key Features:**
-- Colorful, intuitive interface
-- Symptom tracking
-- Appointment management
-
-[<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/visuxlize/ostome-app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 #### 🏢 [NCM Redesign](https://github.com/visuxlize/NCMRedesign)
 
 **Modern website redesign project**
@@ -228,13 +202,15 @@ Complete redesign of the New Castle Metal website, focusing on improved user exp
 [<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/visuxlize/NCMRedesign)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 💼 [Portfolio Website](https://github.com/visuxlize/portfolio)
 
 **Personal portfolio & showcase**
 
-My personal portfolio website showcases projects, skills, and my professional journey from architecture to software development.
+My personal portfolio website showcasing projects, skills, and professional journey from architecture to software development.
 
 **Tech Stack:**
 - TypeScript
@@ -247,6 +223,29 @@ My personal portfolio website showcases projects, skills, and my professional jo
 - Interactive UI
 
 [<img src="https://img.shields.io/badge/View_Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">](https://visuxlize.github.io/portfolio/)
+
+</td>
+<td width="50%" valign="top">
+
+#### ✂️ [Headz Ain't Ready](https://github.com/visuxlize/Headz-Aint-Ready)
+
+**Full-stack barbershop site & staff dashboard**
+
+A modern redesign for a Queens, NYC barbershop: public site, online booking (pick barber, service, date, time), and staff-only dashboard with schedule view, walk-ins, and calendar export.
+
+**Tech Stack:**
+- Next.js 15 (App Router)
+- TypeScript
+- Supabase (PostgreSQL + Auth)
+- Drizzle ORM
+- Tailwind CSS
+
+**Key Features:**
+- Real booking flow with availability & time-off
+- Staff allowlist & dashboard (schedule, reschedule/cancel, ICS export)
+- Deployed on Netlify with API routes & DB
+
+[<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/visuxlize/Headz-Aint-Ready) [<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">](https://headz-aint-ready.netlify.app/)
 
 </td>
 </tr>
@@ -310,11 +309,21 @@ graph LR
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/visuxlize/visuxlize/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ### 🎓 Education & Certifications
 
 ```
 🎓 Software Development (In Progress)
-   DeVry University | Expected Graduation: 2026
+   DeVry University | Expected Graduation: 2025
 
 🏗️ B-Tech in Architecture
    Completed
@@ -347,6 +356,18 @@ I'm always open to interesting conversations and collaboration opportunities!
 </p>
 
 ---
+
+### 💭 Quote of the Day
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
 
 ### ⚡ Fun Facts About Me
 
