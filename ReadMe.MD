@@ -1,166 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=header&text=Andres%20Marte&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20building%20AI-powered%20%26%20retail%20ops%20tools&descAlignY=58&descSize=15" width="100%"/>
+# Andres Marte
 
-<p align="center">
-  <a href="https://visuxlize.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/andres-marte-95438217b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mAndres1994@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" alt="Email"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Full-Stack+Developer;Deployment+Strategist;Builder+%26+Co-Founder;New+York+Based" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=About.me&logoColor=white)](https://visuxlize.github.io/portfolio/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-marte-95438217b)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mAndres1994@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## About
-
-```javascript
-const andres = {
-  role: "Full-Stack Developer & Store Manager",
-  education: "B.S. Software Development, DeVry University (2026)",
-  currentWork: [
-    "Sole developer of internal retail ops tools across 8 store locations",
-    "CTO & co-founder, Brasena (wholesale delivery, pre-launch)",
-    "Building MLB Edge Pro, an AI baseball analytics platform"
-  ],
-  stack: ["Next.js", "React Native", "FastAPI", "Supabase", "TypeScript", "Python"],
-  openTo: "Developer and deployment strategist roles"
-};
-```
+Building tools that actually get used — internal ops platforms, booking systems, and AI-powered analytics. Full-stack developer based in New York. Co-founder of Brasena, sole developer at Brooklinen, and creator of MLB Edge Pro.
 
 <br/>
 
-## Tech Stack
-
-<table width="100%">
+<table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="280">
 
-**Languages**
-<br/>
-TypeScript, JavaScript, Python, Swift, SQL
+**Currently**
 
-</td>
-<td valign="top" width="25%">
-
-**Frameworks**
-<br/>
-Next.js, React, React Native, Node.js, FastAPI
+🎓 Finishing B.S. in Software Development at DeVry<br/>
+🚀 Launching Brasena and MLB Edge Pro<br/>
+⚙️ Extending Brooklinen's internal Apps Script ecosystem<br/>
+🤝 Open to developer and deployment strategist roles
 
 </td>
-<td valign="top" width="25%">
+<td valign="top">
 
-**Data & Infra**
-<br/>
-Supabase, PostgreSQL, Drizzle ORM, Vercel
+**Featured Work**
 
-</td>
-<td valign="top" width="25%">
-
-**Tools**
-<br/>
-Figma, Git, Stripe, Google Apps Script
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ⚾ MLB Edge Pro
-AI-powered baseball analytics and betting edge platform. React Native frontend, Node.js backend, Stripe billing, 14-day free trial.
+**⚾ MLB Edge Pro**
 
-`React Native` `Node.js` `Stripe`
+AI-powered baseball analytics and betting edge platform. React Native frontend, Node.js backend, Stripe billing.
 
-**[mlbedgepro.dev →](https://mlbedgepro.dev/)**
+`React Native` `Node.js` `FastAPI` `Stripe`
+
+[mlbedgepro.dev →](https://mlbedgepro.dev)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ✂️ Headz Ain't Ready
-Full-stack barbershop booking platform. Public booking flow plus a staff dashboard with schedule management and calendar export.
+**✂️ Headz Ain't Ready**
+
+Full-stack barbershop booking with public booking flow, staff dashboard, and calendar export.
 
 `Next.js 15` `Supabase` `Drizzle ORM` `Square`
 
-**[GitHub →](https://github.com/visuxlize/Headz-Aint-Ready)** · **[Live Demo →](https://headz-aint-ready.netlify.app/)**
+[GitHub](https://github.com/visuxlize/Headz-Aint-Ready) · [Live Demo →](https://headzaintready.com/)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🏬 Brooklinen Backstage
-Internal retail operations platform covering scheduling, inventory transfers, and store recap workflows. Built solo, presented internally for company-wide rollout.
+**🏪 Brooklinen Backstage**
+
+Internal retail ops for scheduling, inventory transfers, and store recaps. Built solo, adopted company-wide.
 
 `Next.js` `FastAPI` `Supabase` `Google Apps Script`
 
-**[Case Study →](https://visuxlize.github.io/Brooklinen-Backstage/)**
+[Github Repo →](https://github.com/visuxlize/Brooklinen-Backstage)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🎧 Savage Entertainment & Hospitality
-DJ booking platform with Square payment integration, SEO setup, and Google Search Console configuration.
+**🎧 Savage Entertainment**
+
+DJ booking platform with Square payments, SEO setup, and Google Search Console configuration.
 
 `Next.js` `Supabase` `Square` `SEO`
 
-**[savageentertainmentgroup.com →](https://savageentertainmentgroup.com/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚚 Brasena
-Bronx-based wholesale delivery startup, pre-launch. CTO and co-founder, covering infrastructure through go-to-market strategy.
-
-`Next.js` `Vercel` `Growth Strategy`
-
-**[brasenabx.com →](https://brasenabx.com/)** · **[Marketing Site →](https://brasenabx.com/marketing)**
-
-</td>
-<td width="50%" valign="top">
+[savagementerntainmentgroup.com →](https://savagementerntainmentgroup.com)
 
 </td>
 </tr>
 </table>
 
-<br/>
+> 🌆 Also building: **Brasena** — Bronx wholesale delivery startup. CTO & co-founder, pre-launch.
 
-## Currently
+</td>
+</tr>
+</table>
 
-- 🎓 Finishing a B.S. in Software Development at DeVry University, expected June 2026
-- 💼 Actively interviewing for developer and deployment strategist roles
-- 🚀 Preparing Brasena and MLB Edge Pro for launch
-- 🛠️ Extending Brooklinen's internal Apps Script tooling ecosystem
+---
 
-<br/>
+## Tech Stack
 
-## GitHub Stats
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Data & Infra** &nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+**Tools** &nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=visuxlize&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuxlize&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=visuxlize&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuxlize&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+
+<br/><br/>
+
+*Open to developer and deployment strategist roles. Let's build something worth using.*
 
 <br/>
 
-<div align="center">
-
-**Open to internships, junior and mid-level developer roles, and interesting collaborations.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=80&section=footer" width="100%"/>
+[![See My Work](https://img.shields.io/badge/See_My_Work_%E2%86%92-238636?style=for-the-badge&logoColor=white)](https://visuxlize.github.io/portfolio/)
 
 </div>
