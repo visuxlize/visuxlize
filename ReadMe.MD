@@ -2,140 +2,135 @@
 
 # Andres Marte
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Full-Stack+Developer;Deployment+Strategist;Builder+%26+Co-Founder;New+York+Based" alt="Typing SVG" />
+**Full-Stack Developer**
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=About.me&logoColor=white)](https://visuxlize.github.io/portfolio/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-marte-95438217b)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mAndres1994@gmail.com)
+<p align="center">
+  <a href="https://visuxlize.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=googlechrome&logoColor=3fb950" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andres-marte-95438217b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=3fb950" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mAndres1994@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=3fb950" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
----
+<br/>
 
-Building tools that actually get used — internal ops platforms, booking systems, and AI-powered analytics. Full-stack developer based in New York. Co-founder of Brasena, sole developer at Brooklinen, and creator of MLB Edge Pro.
+Building tools that actually get used: internal ops platforms, booking systems, and AI-powered analytics. Full-stack developer based in New York. Co-founder of Brasena, sole developer at Brooklinen, creator of MLB Edge Pro.
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="280">
+## Currently
 
-**Currently**
+- 🎓 Finishing a B.S. in Software Development at DeVry University, expected June 2026
+- 💼 Actively interviewing for developer and deployment strategist roles
+- 🚀 Launching Brasena and MLB Edge Pro
+- 🛠️ Extending Brooklinen's internal Apps Script tooling ecosystem
 
-🎓 Finishing B.S. in Software Development at DeVry<br/>
-🚀 Launching Brasena and MLB Edge Pro<br/>
-⚙️ Extending Brooklinen's internal Apps Script ecosystem<br/>
-🤝 Open to developer and deployment strategist roles
+<br/>
 
-</td>
-<td valign="top">
+## Featured Work
 
-**Featured Work**
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**⚾ MLB Edge Pro**
-
-AI-powered baseball analytics and betting edge platform. React Native frontend, Node.js backend, Stripe billing.
+### ⚾ MLB Edge Pro
+AI-powered baseball analytics and betting edge platform. React Native frontend, Node.js backend, Stripe billing, 14-day free trial.
 
 `React Native` `Node.js` `FastAPI` `Stripe`
 
-[mlbedgepro.dev →](https://mlbedgepro.dev)
+**[mlbedgepro.dev →](https://mlbedgepro.dev/)**
 
-</td>
-<td valign="top" width="50%">
+---
 
-**✂️ Headz Ain't Ready**
-
-Full-stack barbershop booking with public booking flow, staff dashboard, and calendar export.
-
-`Next.js 15` `Supabase` `Drizzle ORM` `Square`
-
-[GitHub](https://github.com/visuxlize/Headz-Aint-Ready) · [Live Demo →](https://headzaintready.com/)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🏪 Brooklinen Backstage**
-
-Internal retail ops for scheduling, inventory transfers, and store recaps. Built solo, adopted company-wide.
+### 🏬 Brooklinen Backstage
+Internal retail operations platform for scheduling, inventory transfers, and store recaps. Built solo, adopted company-wide across 8 locations.
 
 `Next.js` `FastAPI` `Supabase` `Google Apps Script`
 
-[Github Repo →](https://github.com/visuxlize/Brooklinen-Backstage)
+**[Case Study →](https://visuxlize.github.io/Brooklinen-Backstage/)**
 
-</td>
-<td valign="top">
+---
 
-**🎧 Savage Entertainment**
+### ✂️ Headz Ain't Ready
+Full-stack barbershop booking platform. Public booking flow plus a staff dashboard with schedule management and calendar export.
 
-DJ booking platform with Square payments, SEO setup, and Google Search Console configuration.
+`Next.js 15` `Supabase` `Drizzle ORM` `Square`
+
+**[GitHub →](https://github.com/visuxlize/Headz-Aint-Ready)** · **[Live Demo →](https://headz-aint-ready.netlify.app/)**
+
+---
+
+### 🎧 Savage Entertainment & Hospitality
+DJ booking platform with Square payment integration, SEO setup, and Google Search Console configuration.
 
 `Next.js` `Supabase` `Square` `SEO`
 
-[savagementerntainmentgroup.com →](https://savagementerntainmentgroup.com)
-
-</td>
-</tr>
-</table>
-
-> 🌆 Also building: **Brasena** — Bronx wholesale delivery startup. CTO & co-founder, pre-launch.
-
-</td>
-</tr>
-</table>
+**[savageentertainmentgroup.com →](https://savageentertainmentgroup.com/)**
 
 ---
 
-## Tech Stack
+### 🚚 Brasena
+Bronx-based wholesale delivery startup, pre-launch. CTO and co-founder, covering infrastructure through go-to-market strategy.
 
-**Frontend** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+`Next.js` `Vercel` `Growth Strategy`
 
-**Backend** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data & Infra** &nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-**Tools** &nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=visuxlize&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuxlize&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
-
-<br/><br/>
-
-*Open to developer and deployment strategist roles. Let's build something worth using.*
+**[brasenabx.com →](https://brasenabx.com/)** · **[Marketing Site →](https://brasenabx.com/marketing)**
 
 <br/>
 
-[![See My Work](https://img.shields.io/badge/See_My_Work_%E2%86%92-238636?style=for-the-badge&logoColor=white)](https://visuxlize.github.io/portfolio/)
+## Tech Stack
+
+**Frontend**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3fb950)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=3fb950)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=3fb950)
+![React Native](https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=3fb950)
+![Swift](https://img.shields.io/badge/Swift-0a0a0a?style=flat-square&logo=swift&logoColor=3fb950)
+
+**Backend**
+<br/>
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3fb950)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=3fb950)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=3fb950)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=mysql&logoColor=3fb950)
+
+**Data & Infra**
+<br/>
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3fb950)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=3fb950)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0a0a0a?style=flat-square&logoColor=3fb950)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=3fb950)
+
+**Tools**
+<br/>
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=3fb950)
+![Stripe](https://img.shields.io/badge/Stripe-0a0a0a?style=flat-square&logo=stripe&logoColor=3fb950)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=3fb950)
+![Apps Script](https://img.shields.io/badge/Apps_Script-0a0a0a?style=flat-square&logo=google&logoColor=3fb950)
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=visuxlize&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuxlize&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3fb950&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+*Open to developer and deployment strategist roles. Let's build something worth using.*
+
+<a href="https://visuxlize.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/SEE_MY_WORK-3fb950?style=for-the-badge&logoColor=white" alt="See my work"/>
+</a>
 
 </div>
